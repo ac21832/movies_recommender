@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "movies-recommender"
+version = "0.1.0"
+description = ""
+authors = ["Aleksandar1932 <aleksandar.ivanovski123@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
